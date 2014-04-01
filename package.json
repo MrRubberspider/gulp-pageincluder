@@ -12,7 +12,10 @@
 	"email": "",
 	"url": "https://github.com/MrRubberspider"
   },
-  "repository": "https://github.com/MrRubberspider/gulp-pageincluder.git",
+  "repository": {
+	"type" : "git",
+	"url" : "https://github.com/MrRubberspider/gulp-pageincluder.git"
+  },
   "dependencies": {
 	"through2": "*",
 	"gulp-util": "~2.2.0"
