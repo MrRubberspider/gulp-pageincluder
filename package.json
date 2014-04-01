@@ -17,8 +17,8 @@
 	"url" : "MrRubberspider/gulp-pageincluder"
   },
   "dependencies": {
-	"through2": "*",
-	"gulp-util": "~2.2.0"
+  	"gulp-util": "~2.2.0",
+	"through2": "*"
   },
   "devDependencies": {
 	"mocha": "*",
