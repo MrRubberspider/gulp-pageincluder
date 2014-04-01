@@ -1,0 +1,31 @@
+{
+  "name": "gulp-pageincluder",
+  "version": "0.0.1",
+  "description": "This is a file includer gulp plugin.",
+  "keywords": [
+	"gulpplugin",
+	"html",
+	"include"
+  ],
+  "author": {
+	"name": "",
+	"email": "",
+	"url": "https://github.com/MrRubberspider"
+  },
+  "repository": "https://github.com/MrRubberspider/gulp-pageincluder.git",
+  "dependencies": {
+	"through2": "*",
+	"gulp-util": "~2.2.0"
+  },
+  "devDependencies": {
+	"mocha": "*",
+	"mocha-lcov-reporter": "*",
+	"event-stream": "*",
+	"should": "~2.1.0"
+  },
+  "engines": {
+	"node": ">=0.8.0",
+	"npm": ">=1.2.10"
+  },
+  "license": "MIT"
+}
